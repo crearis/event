@@ -6,6 +6,7 @@
 # Copyright 2018 Jupical Technologies Pvt. Ltd. - Anil Kesariya
 # Copyright 2020 Tecnativa S.L. - Víctor Martínez
 # Copyright 2023 Tecnativa S.L. - Carolina Fernandez
+# Changed/Tweaked 2024 for Theaterpedia-Integration by Theaterpedia E.V. - Hans Dönitz
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {

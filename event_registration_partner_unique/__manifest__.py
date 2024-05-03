@@ -10,10 +10,9 @@
     "version": "16.0.1.0.0",
     "category": "Marketing",
     "website": "https://github.com/OCA/event",
-    "author": "Tecnativa, Odoo Community Association (OCA)",
+    "author": "Tecnativa, Odoo Community Association (OCA) / changes by Theaterpedia 2024",
     "license": "AGPL-3",
     "application": False,
     "installable": True,
     "depends": ["event", "partner_event"],
-    "data": ["views/event_event_view.xml"],
 }
